@@ -90,7 +90,7 @@ const Contact = () => {
                   id="name"
                   autoComplete="name"
                   required
-                  placeholder="Shamim Ahmed"
+                  placeholder="niloydevx"
                   className="text-field"
                />
             </div>
@@ -109,7 +109,7 @@ const Contact = () => {
                   id="email"
                   autoComplete="email"
                   required
-                  placeholder="shamim@example.com"
+                  placeholder="niloydevx@example.com"
                   className="text-field"
                />
             </div>
